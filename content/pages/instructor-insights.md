@@ -2,7 +2,7 @@
 content_type: page
 description: This page presents information on how 3.020 Thermodynamics of Materials
   was taught.
-draft: true
+draft: false
 title: Instructor Insights
 uid: 6f1dfa42-bfa7-425a-b4e4-c5adec5e525d
 ---
@@ -46,14 +46,16 @@ Devoting two lectures to these topics was intended as a signal of how important 
 
 Students in 3.020 should have previously taken one of the following courses to fulfil MIT's General Institute Requirement (GIR) in Chemistry:
 
-- [*3.091 Introduction to Solid-State Chemistry*](https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/) 
-- [*5.111 Principles of Chemical Science*](https://ocw.mit.edu/courses/5-111-principles-of-chemical-science-fall-2008/)
+- [*3.091 Introduction to Solid-State Chemistry*](https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/)  or [3.091SC](https://draft.ocw.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/)\*
+- [*5.111 Principles of Chemical Science*](https://ocw.mit.edu/courses/5-111-principles-of-chemical-science-fall-2008/) or [5.111SC](https://draft.ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/)\*
 - [*5.112 Principles of Chemical Science*](https://ocw.mit.edu/courses/5-112-principles-of-chemical-science-fall-2005/)
 
 One of the following courses should be taken as a corequisite:
 
 - [*18.03 Differential Equations*](https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/)
 - *18.032 Differential Equations*
+
+\*"SC" denotes an [*OCW Scholar*](ocw.mit.edu/course-lists/scholar-courses/) version of a course.
 
 ### Requirements Satisfied
 
@@ -63,7 +65,7 @@ One of the following courses should be taken as a corequisite:
 
 ### Offered
 
-Every spring semester
+- Every spring semester
 
 ## Assessment and Grading
 
@@ -74,7 +76,7 @@ Every spring semester
 
 35% of the grade is based on laboratory & communication components of the course:
 
-- 20% Lab reports: short virtual student-recorded videos summarizing key lab results, to be submitted   
+- 20% Lab reports: short virtual student-recorded videos summarizing key lab results, to be submitted       
     for each of the three lab experiments
 - 35% Oral presentation
 - 45% Written review article
@@ -83,19 +85,19 @@ Every spring semester
 
 ### Enrollment
 
-31 students.
+- 31 students.
 
 ### Breakdown by Year
 
-Mostly second-year undergraduates.
+- Mostly second-year undergraduates.
 
 ### Breakdown by Major
 
-About 2/3 materials science and engineering students, 1/3 other majors or undecided.
+- About 2/3 materials science and engineering students, 1/3 other majors or undecided.
 
 ## How Student Time Was Spent
 
-During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
+- During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
 ### Lectures
 

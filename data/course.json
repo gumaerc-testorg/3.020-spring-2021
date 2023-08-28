@@ -31,7 +31,7 @@
   "department_numbers": [
     "3"
   ],
-  "extra_course_numbers": "",
+  "extra_course_numbers": "3.012",
   "primary_course_number": "3.020",
   "course_image_thumbnail": {
     "content": "",
@@ -44,8 +44,7 @@
     "Presentation Assignments",
     "Problem Sets",
     "Readings",
-    "Tutorial Videos",
-    "Tools"
+    "Tutorial Videos"
   ],
   "site_uid": "7a852892-d940-4d19-87a4-6d8994213bf9",
   "site_short_id": "3.020-spring-2021"
