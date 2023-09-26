@@ -35,4 +35,4 @@ video_metadata:
     \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: SP21-5q2uzw
 ---
-This lecture covers the conceptual introduction to work and heat, classifying adiabatic, isobaric, and isochronic processes, heat capacity, and the first law.
+This lecture covers the conceptual introduction to work and heat, classifying adiabatic, isobaric, and isochronic processes, heat capacity, and the First Law.

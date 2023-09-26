@@ -28,9 +28,9 @@ Introduction to thermodynamics
 
 - Entropy and spontaneous processes
 - Molecular interactions and enthalpy
-- Scope of thermodynamics - matter at equilibrium
-- Use of thermodynamics - phase diagrams and other maps
-- CALPHAD and Thermocalc
+- Scope of thermodynamics, matter at equilibrium
+- Use of thermodynamics, phase diagrams and other maps
+- CALPHAD and Thermo-Calc
 
 {{< tdclose >}}{{< tdopen >}}
 Ferrie: *Statistical Physics for Babies*
@@ -44,11 +44,11 @@ Scope and use of thermodynamics
 
 - Systems, phases, states, and state functions
 - Equations of state
-- Compressibility & thermal expansion
+- Compressibility and thermal expansion
 - Extensive vs intensive properties
 
 {{< tdclose >}}{{< tdopen >}}
-DeHoff: ch. 1, 2.1-2.2
+DeHoff: ch. 1, 2.1–2.2
 {{< tdclose >}}{{< tdopen >}}
 \-
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -58,7 +58,7 @@ Class 3
 Process variables and the First Law
 
 - Conceptual introduction to work and heat
-- Classifying processes: adiabatic, isobaric, isochronic
+- Classifying processes: Adiabatic, isobaric, isochronic
 - Heat capacity
 - First law
 
@@ -88,19 +88,18 @@ Phase diagrams for materials selection: Fe-C: Understanding phase diagrams and t
 {{< tdclose >}}{{< tdopen >}}
 \-
 {{< tdclose >}}{{< tdopen >}}
-CI-M Presentation topic
+CI-M presentation topic
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Class 5
 {{< tdclose >}}{{< tdopen >}}
 
-Second law and entropy maximization
+Second Law and entropy maximization
 
-- Second law and entropy maximization
-- Combined statement of 1st and 2nd laws
+- Combined statement of first and second laws
 - Equilibrium in an isolated system
 
 {{< tdclose >}}{{< tdopen >}}
-DeHoff: ch. 3.2-3.5, 5.1-5.2
+DeHoff: ch. 3.2–3.5, 5.1-5.2
 {{< tdclose >}}{{< tdopen >}}
 Pset 1
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -109,7 +108,6 @@ Class 6
 
 Thermodynamic potentials
 
-- Thermodynamic potentials
 - Chemical potential
 - General strategy
 
@@ -164,7 +162,7 @@ Exam 1
 
 Lab 1 write-up
 
-CI-M Presentation rough draft (ungraded)
+CI-M presentation rough draft (ungraded)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Class 10
@@ -177,7 +175,7 @@ Introduction to unary phase transformations
 - Reaction/transformation quantities
 
 {{< tdclose >}}{{< tdopen >}}
-DeHoff: ch. 7.1-7.2
+DeHoff: ch. 7.1–7.2
 {{< tdclose >}}{{< tdopen >}}
 \-
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -213,7 +211,7 @@ Introduction to ideal (gas) mixtures
 - Balancing chemical reactions
 
 {{< tdclose >}}{{< tdopen >}}
-Denbigh: ch. 4.1-4.5
+Denbigh: ch. 4.1–4.5
 {{< tdclose >}}{{< tdopen >}}
 Pset 3
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -227,7 +225,7 @@ Reacting gas mixtures at equilibrium
 - van't Hoff equation
 
 {{< tdclose >}}{{< tdopen >}}
-Denbigh: ch. 4.1-4.9
+Denbigh: ch. 4.1–4.9
 {{< tdclose >}}{{< tdopen >}}
 \-
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -250,7 +248,7 @@ Introduction to solutions, general case
 - Introduction to solution modeling
 
 {{< tdclose >}}{{< tdopen >}}
-Callister: ch. 9.-9.6                 
+Callister: ch. 9.–9.6                   
 DeHoff: ch. 8.1
 {{< tdclose >}}{{< tdopen >}}
 Pset 4
@@ -261,11 +259,11 @@ Class 16
 Partial molar properties
 
 - PMP definition
-- Gibbs-Duhem
-- Calculating PMPs from solution models, incl. graphical solution
+- Gibbs-Duhem equation
+- Calculating PMPs from solution models, including graphical solution
 
 {{< tdclose >}}{{< tdopen >}}
-DeHoff: ch. 8.1-8.4
+DeHoff: ch. 8.1–8.4
 {{< tdclose >}}{{< tdopen >}}
 \-
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -276,7 +274,7 @@ Solution models: Ideal, dilute, and regular
 
 - Ideal gas mixtures and the ideal solution model
 - Non-ideal solutions, activity, and activity coefficients
-- Dilute solution model, Henry and Raoult's laws
+- Dilute solution model, Henry's and Raoult's laws
 - Regular solution models
 
 {{< tdclose >}}{{< tdopen >}}
@@ -289,7 +287,7 @@ Lab 2 (Virtual)
 
 Thermal energy storage: Phase change materials
 
-- Understanding binary phase diagrams: solidus, liquidus, eutectics
+- Understand binary phase diagrams: Solidus, liquidus, eutectics
 - Understand and quantify thermodynamic quantities, e.g., heat capacity, latent heat of fusion
 
  
@@ -319,7 +317,7 @@ Class SP1
 {{< tdclose >}}{{< tdopen >}}
 Discussion 1: Social and personal aspects of working in the field of materials science\*
 {{< tdclose >}}{{< tdopen >}}
-*See* {{% resource_link "ce30c4c2-5161-4110-b08d-7ce1d29e972a" "*readings section*" %}}*for options*
+*See* {{% resource_link "ce30c4c2-5161-4110-b08d-7ce1d29e972a" "*readings section*" %}} *for options*
 {{< tdclose >}}{{< tdopen >}}
 \-
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -329,7 +327,7 @@ Class 19
 Regular solutions models and stability
 
 - Quasi-chemical model
-- Temp-dependence of the simple regular model
+- Temperature-dependence of the simple regular model
 - Stability and spontaneous unmixing
 
 {{< tdclose >}}{{< tdopen >}}
@@ -452,7 +450,7 @@ Computational statistical thermodynamics
 
 - Understand probability distributions and the Boltzmann distribution
 - Understand origin of temperature from microscopic degrees of freedom 
-- Understand fluctuations and thermalization                 
+- Understand fluctuations and thermalization                   
      
 
 {{< tdclose >}}{{< tdopen >}}
@@ -484,7 +482,7 @@ Chandler ch. 3
 {{< tdclose >}}{{< tdopen >}}
 \-
 {{< tdclose >}}{{< tdopen >}}
-Literature Review full draft (ungraded)
+Literature review full draft (ungraded)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Class 29
 {{< tdclose >}}{{< tdopen >}}
@@ -497,7 +495,7 @@ Boltzmann distribution
 
 {{< tdclose >}}{{< tdopen >}}
 
-DeHoff ch. 6,
+DeHoff ch. 6
 
 Chandler ch. 3
 
@@ -513,7 +511,7 @@ Chandler ch. 3
 
 Pset 9
 
-Literature Review final draft due
+Literature review final draft due
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Class 30
@@ -521,7 +519,7 @@ Class 30
 Intermediate phases and reactions
 {{< tdclose >}}{{< tdopen >}}
 
-DeHoff: ch. 10, 11.1-11.2  
+DeHoff: ch. 10, 11.1–11.2  
 
 Callister: ch. 9.13  
 

@@ -35,4 +35,4 @@ video_metadata:
     \ are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: BRWxGlreKTs
 ---
-This lecture covers the second law and entropy maximization, the combined statement of 1st and 2nd laws, and equilibrium in an isolated system.
+This lecture covers the second law and entropy maximization, the combined statement of the First and Second Laws, and equilibrium in an isolated system.

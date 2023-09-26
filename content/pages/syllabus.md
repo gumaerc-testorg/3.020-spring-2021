@@ -7,11 +7,11 @@ uid: 9c277a00-1f00-4039-9537-81d8cf2ea78b
 ---
 ### Course Meeting Times
 
-Lectures: 3 sessions / week, 1 hour / session
+Lectures: 3 sessions / week, 1 hour / session (attendance encouraged)
 
 Recitations: 1 session / week, 1 hour / session (optional)
 
-Labs: 2 sessions / week, 2 hours / session
+Labs: 3 sessions, 2 hours / session
 
 ### Prerequisites/Corequisites
 
@@ -21,11 +21,11 @@ Chemistry ([GIR](https://registrar.mit.edu/registration-academics/academic-requi
 - [*5.111 Principles of Chemical Science*](https://ocw.mit.edu/courses/5-111-principles-of-chemical-science-fall-2008/) or [5.111SC](https://draft.ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/)\*
 - [*5.112 Principles of Chemical Science*](https://ocw.mit.edu/courses/5-112-principles-of-chemical-science-fall-2005/)
 
-[*18.03 Differential Equations*](https://ocw.mit.edu/search/?q=18.03) or *18.032* is a *corequisite*, meaning students can take *3.020* and *18.03* (or *18.032*) at the same time.
+[*18.03 Differential Equations*](https://ocw.mit.edu/search/?q=18.03) or the Honors version 18.032 is a *corequisite*, meaning students can take 3.020 and 18.03 (or 18.032) at the same time.
 
 Go to {{% resource_link "6f1dfa42-bfa7-425a-b4e4-c5adec5e525d" "the instructor insights section" %}} for more details about how this course fits into the MIT Curriculum.
 
-\*"SC" denotes an [*OCW Scholar*](ocw.mit.edu/course-lists/scholar-courses/) version of a course. OCW Scholar courses contain complete multi-media resources designed for independent learners and are organized sequentially.
+\*"SC" denotes an [OCW Scholar](https://ocw.mit.edu/course-lists/scholar-courses/) version of a course. OCW Scholar courses contain complete multi-media resources designed for independent learners and are organized sequentially.
 
 ### Course Description
 
@@ -35,13 +35,13 @@ This course introduces the competition between energetics and disorder that unde
 
 There is one required textbook:
 
-Robert DeHoff, *Thermodynamics in Materials Science*, 2nd edition, Taylor & Francis, 2006. ISBN: 978-0849340659.
+Robert DeHoff, *Thermodynamics in Materials Science*, 2nd edition, CRC Press, 2006. ISBN: 9780849340659.
 
 Additional, required supplementary readings will be from the following textbooks:
 
-- Chapter 4: "Equilibria of Reactions Involving Gases." Kenneth Denbigh, *The Principles of Chemical Equilibrium*, 4th edition, Cambridge, 1981. ISBN: 978-0521281508.
-- Chapter 9: "Phase Diagrams." William D Callister, Jr., and David G. Rethwisch, *Materials Science and Engineering*, 8th edition, Wiley, 2009. ISBN: 9780470419977.
-- Chapter 3: "Statistical Mechanics." David Chandler, *Introduction to Modern Statistical Mechanics*, Oxford, 1987. ISBN: 978-0195042771.
+- Chapter 4: "Equilibria of Reactions Involving Gases." Kenneth Denbigh, *The Principles of Chemical Equilibrium*, 4th edition, Cambridge, 1981. ISBN: 9780521281508.
+- Chapter 9: "Phase Diagrams." William D. Callister, Jr., and David G. Rethwisch, *Materials Science and Engineering*, 8th edition, Wiley, 2009. ISBN: 9780470419977.
+- Chapter 3: "Statistical Mechanics." David Chandler, *Introduction to Modern Statistical Mechanics*, Oxford, 1987. ISBN: 9780195042771.
 
 ### Lectures
 
@@ -68,22 +68,22 @@ This course satisfies MIT's [CI-M requirement](https://registrar.mit.edu/registr
 
 ### Evaluation
 
-The contributions to the final grade will be: 65% from lecture, 35% from laboratory & CI-M components
+The contributions to the final grade will be 65% from lecture and 35% from laboratory and CI-M components.
 
-The *lecture* grade will be determined by the following:
+The lecture grade will be determined by the following:
 
 - 50% problem sets: 10 problem sets, with equal weighting
 - 50% exams: 3 exams, of equal length and weighting (including the final)
 
-The *laboratory & CI-M grades* will be determined by:
+The laboratory and CI-M *grades* will be determined by the following:
 
-- 20% lab reports: Short virtual student-recorded videos summarizing key lab results will be submitted for each lab experiment.
+- 20% lab reports: Short virtual student-recorded videos summarizing key lab results, to be submitted for each lab experiment
 - 35% Oral presentation
 - 45% Written review article
 
 ### Problem Sets
 
-- Problem sets will be due at 10 am Eastern on the due date.
+- Problem sets will be due at 10 a.m. Eastern on the due date.
 - We encourage you to work in groups on the problem sets. However, you should write up your own problem-set solutions, and acknowledge the names of the students with whom you worked in your submission.
 
 ### Exams
@@ -96,4 +96,4 @@ The *laboratory & CI-M grades* will be determined by:
 - You can take the exam at any time within a 24-hour window on the day of the exam; *i.e.*, the window to take the test begins at 12:00:01 am Eastern and ends at 11:59:59 pm Eastern on the test date.
 - Once you download the exam, your 75-minute period begins.
 
-*Please note that this information was intended for students enrolled in the residential MIT course and is included to provide insight into how the course was conducted during the pandemic. OCW is not a distance education program, and we do not offer instructor interactions, grading, or certification of completion.*
+*Please note that this information was intended for students enrolled in the residential MIT course and is included to provide insight into how the course was conducted. OCW is not a distance education program, and we do not offer instructor interactions, grading, or certification of completion.*

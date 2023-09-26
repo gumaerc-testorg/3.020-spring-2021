@@ -41,11 +41,11 @@ Lecture Notes: LaTeX Format
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link "e1b2066e-93b7-4c4c-9478-456932cd7c6f" "Lecture 7: Ideal Gas Processes (ZIP)" %}} This file contains: 1 .tex file, 3 .png files.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "197a90d6-2df5-4d4d-ac0e-9dbbf07b8a89" "Lecture 8: Mathematical Implications of Equilibrium & Spontaneous Processes (PDF)" %}}
+{{% resource_link "755aaec2-4228-4967-9fdd-f795cc5a2a36" "Lecture 8: Mathematical Implications of Equilibrium & Spontaneous Processes (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link "265d201e-02e7-4fe5-9c0c-b9700ad62e83" "Lecture 8: Mathematical Implications of Equilibrium & Spontaneous Processes (ZIP)" %}} This file contains: 1 .tex file, 3 .png files.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "197a90d6-2df5-4d4d-ac0e-9dbbf07b8a89" "Lecture 9: Case Studies - Specific Heats and Phase Transformations (PDF)" %}}
+{{% resource_link "8e10251b-52bb-4f3b-a66b-1d9d950c3883" "Lecture 9: Case Studies - Specific Heats and Phase Transformations (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link "d75b51e2-32fd-4aa5-a2d8-24774521f010" "Lecture 9: Case Studies - Specific Heats and Phase Transformations (ZIP)" %}} This file contains: 1 .tex file, 3 .png files.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
