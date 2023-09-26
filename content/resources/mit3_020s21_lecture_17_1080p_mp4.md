@@ -1,7 +1,7 @@
 ---
 body: ''
 content_type: resource
-draft: false
+draft: true
 file: /courses/3-020-thermodynamics-of-materials-spring-2021/mit3_020s21_lecture_17_1080p_360p_16_9.mp4
 file_size: ''
 file_type: video/mp4
@@ -37,4 +37,4 @@ video_metadata:
     \ may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: lDZoBucZfr4
 ---
-This lecture covers ideal gas mixtures and the ideal solution model, non-ideal solutions, activity, and activity coefficients, dilute solution model, Henry and Raoult's laws, and regular solution models.
+This lecture covers ideal gas mixtures and the ideal solution model, non-ideal solutions, activity, and activity coefficients, dilute solution model, Henry's and Raoult's laws, and regular solution models.
