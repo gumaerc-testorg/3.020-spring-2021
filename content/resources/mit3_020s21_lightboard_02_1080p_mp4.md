@@ -1,7 +1,7 @@
 ---
 body: ''
 content_type: resource
-draft: false
+draft: true
 file: /courses/3-020-thermodynamics-of-materials-spring-2021/mit3_020s21_lightboard_02_1080p_360p_16_9.mp4
 file_size: ''
 file_type: video/mp4
@@ -37,4 +37,4 @@ video_metadata:
     \ are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: r7CbPYxkQeU
 ---
-This video introduces phase diagrams of unary, binary, and ternary systems, and demonstrates the Ouzo effect.
+This video introduces phase diagrams of unary, binary, and ternary systems, and demonstrates the ouzo effect.

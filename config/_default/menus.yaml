@@ -27,6 +27,10 @@ leftnav:
   name: Assignments
   pageRef: /pages/assignments
   weight: 70
+- identifier: 3f2eaeca-ad40-432e-991c-43fa26efe079
+  name: Supplemental Videos
+  pageRef: /video_galleries/supplemental-videos
+  weight: 80
 - identifier: ad3d4fed-58b7-4c9a-a135-c2defc01152e
   name: Problem Sets
   pageRef: /lists/problem-sets

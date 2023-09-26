@@ -12,7 +12,7 @@ See the {{% resource_link "0cf92f71-39da-412d-b0d4-49a999b084a9" "calendar secti
 
 ### Textbook
 
-DeHoff, Robert. *Thermodynamics in Materials Science*. CRC Press, 2006. ISBN: 9781420005851. \[[Google Books Preview](https://www.google.com/books/edition/_/uV_LBQAAQBAJ?hl=en&gbpv=1&pg=PP1)\]
+DeHoff, Robert. *Thermodynamics in Materials Science.* 2nd ed. CRC Press, 2006. ISBN (print): 9780849340659. ISBN (eText): 9781420005851. \[[Google Books Preview](https://www.google.com/books/edition/_/uV_LBQAAQBAJ?hl=en&gbpv=1&pg=PP1)\]
 
 ### Additional Readings
 
@@ -22,7 +22,7 @@ Callister, William D. "Phase Diagrams." Chapter 9 in *Materials Science and Engi
 
 Chandler, David. "Statistical Mechanics." Chapter 3 in *Introduction to Modern Statistical Mechanics,* 2nd ed., Oxford University Press, 1987. ISBN: 9780195042771.
 
-Clerc, Daryl G., and David A. Cleary. "Spinodal Decomposition as an Interesting Example of the Application of Several Thermodynamic Principles." *Journal of Chemical Education* 72, no. 2 (1995): 112-115.
+Clerc, Daryl G., and David A. Cleary. "Spinodal Decomposition as an Interesting Example of the Application of Several Thermodynamic Principles." *Journal of Chemical Education* 72, no. 2 (1995): 112–115.
 
 Ferrie, Chris. *Statistical Physics for Babies.* Sourcebooks, 2018. ISBN: 9781492670308.
 
@@ -34,7 +34,7 @@ Ferrie, Chris. *Statistical Physics for Babies.* Sourcebooks, 2018. ISBN: 978149
 
 #### Required Reading
 
-Kaiser, David. "[The search for clean cash](https://www.nature.com/articles/472030a)." *Nature* 472 (2011) 30-31.
+Kaiser, David. "[The search for clean cash](https://www.nature.com/articles/472030a)." *Nature* 472 (2011): 30-31.
 
 Kaiser, David. "[History: Shut up and calculate!](https://www.nature.com/articles/505153a)" *Nature* 505 (2014): 153-155.
 
@@ -51,7 +51,7 @@ Kaiser, David. "[History: Shut up and calculate!](https://www.nature.com/article
 
 - King, Gilbert. "[Fritz Haber’s Experiments in Life and Death](https://www.smithsonianmag.com/history/fritz-habers-experiments-in-life-and-death-114161301/)." *Smithsonian Magazine,* June 6, 2012. 
 - "[The Nobel Prize in Chemistry 1918](https://www.nobelprize.org/prizes/chemistry/1918/summary/)." NobelPrize.org.
-- RadioLab. "[The Bad Show](https://radiolab.org/podcast/bad-show)" (Haber segment). RadioLab Podcast.
+- Radiolab. "[The Bad Show](https://radiolab.org/podcast/bad-show)" (Haber segment). Radiolab Podcast, July 27, 2018.
 
 ### Discussion Class 2
 
@@ -61,7 +61,7 @@ Rothman, Joshua. "[How Does Science Really Work](https://www.newyorker.com/magaz
 
 #### Required: At least one of the following stories of individual careers
 
-- Fabbiano, Giuseppina. "[The woman who explained the stars](https://doi.org/10.1038/d41586-020-00509-3)." *Nature* 578 (2020) 509-510. 
+- Fabbiano, Giuseppina. "[The woman who explained the stars](https://doi.org/10.1038/d41586-020-00509-3)." *Nature* 578 (2020): 509–510. 
 - Famous Scientists. "[Subrahmanyan Chandrasekhar](https://www.famousscientists.org/subrahmanyan-chandrasekhar/)." FamousScientists.org. 
-- Hubbard, Ruth. "[Dark Lady of DNA: Book Review](https://www.jstor.org/stable/10.1086/345333)." *Signs: Journal of Women in Culture and Society* 28, no. 3 (2003): 973-975.
-- Mielczarek, Eugenie. "[Rosalind Franklin: The Dark Lady of DNA](https://doi.org/10.1063/1.1564352)." *Physics Today* 56, no. 2 (2003): 61-62.
+- Hubbard, Ruth. "[Dark Lady of DNA: Book Review](https://www.jstor.org/stable/10.1086/345333)." *Signs: Journal of Women in Culture and Society* 28, no. 3 (2003): 973–975.
+- Mielczarek, Eugenie. "[Rosalind Franklin: The Dark Lady of DNA](https://doi.org/10.1063/1.1564352)." *Physics Today* 56, no. 2 (2003): 61–62.

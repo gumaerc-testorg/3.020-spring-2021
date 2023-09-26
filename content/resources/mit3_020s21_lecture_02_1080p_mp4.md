@@ -35,4 +35,4 @@ video_metadata:
     \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: Jwr_C_ty3EI
 ---
-This lecture covers systems, phases, states, and state functions, equations of state, compressibility & thermal expansion, and extensive vs intensive properties.
+This lecture covers systems, phases, states, and state functions, equations of state, compressibility and thermal expansion, and extensive vs intensive properties.

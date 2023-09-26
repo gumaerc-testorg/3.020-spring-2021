@@ -28,11 +28,11 @@ With respect to the students’ outcomes, I have heard anecdotes, both negative 
 
 **Rafael Jaramillo:** Attendance has always been optional. I don’t think it helps to make it otherwise. It’s incumbent on us, as instructors, to make the class experience worth the cost of tuition. It’s up to students to decide how they are going to use this time in college, that they have paid so dearly for, in money, time, effort, and stress. In 3.020 (and its predecessor, 3.012), the outcome has been a fairly full and active class, even during Zoom.
 
-I don’t think switching to open book exams made much difference. By design, 3.020 is a difficult class, and the exams are intended to push boundaries. Even in cases when we asked questions almost directly out of a textbook, a student needs to have worked the text beforehand to be able to take advantage of these little gifts. So, I think that we were still able to recognize and reward good learning outcomes, despite open book exams taken over Zoom.
+I don’t think switching to open-book exams made much difference. By design, 3.020 is a difficult class, and the exams are intended to push boundaries. Even in cases when we asked questions almost directly out of a textbook, a student needs to have worked the text beforehand to be able to take advantage of these little gifts. So, I think that we were still able to recognize and reward good learning outcomes, despite open book exams taken over Zoom.
 
 **OCW:** You devoted two class sessions to discussing the social and personal aspects of working in your field. What motivated you to write these two class sessions into the syllabus for the course?
 
-**Rafael Jaramillo:** The experience of living through 2020 brought to the surface many important topics that had been ignored for a long time. Police violence and structural racism are prominent examples—neither was new, or substantially changed in 2020, but they came to the fore in a collective way that was new. In creating these new sessions, I was responding to a somewhat different set of issues: questions of individual purpose and motivation for pursuing careers in science and engineering, and of how to understand the impact of our work on the wider world. Our individual motivations for applying ourselves to STEM careers are often left unevaluated, beyond bromides like wanting to slow global warming, or to help people in need. But individual motivations are deeper and more complex, and these details make a tremendous difference to our individual experiences in life, and in how we impact others.
+**Rafael Jaramillo:** The experience of living through 2020 brought to the surface many important topics that had been ignored for a long time. Police violence and structural racism are prominent examples—neither was new or substantially changed in 2020, but they came to the fore in a collective way that was new. In creating these new sessions, I was responding to a somewhat different set of issues: questions of individual purpose and motivation for pursuing careers in science and engineering, and of how to understand the impact of our work on the wider world. Our individual motivations for applying ourselves to STEM careers are often left unevaluated, beyond bromides like wanting to slow global warming or to help people in need. But individual motivations are deeper and more complex, and these details make a tremendous difference to our individual experiences in life, and in how we impact others.
 
 Devoting two lectures to these topics was intended as a signal of how important it is to question our motivations, to strive to know ourselves, and to be clear-eyed in assessing our impacts on others. I also wanted to deliver an engaging experience that the students would enjoy. On that point, I don’t know how well it worked, as feedback was so very hard to get during Covid.
 
@@ -44,7 +44,7 @@ Devoting two lectures to these topics was intended as a signal of how important 
 
 ### Prerequisites
 
-Students in 3.020 should have previously taken one of the following courses to fulfil MIT's General Institute Requirement (GIR) in Chemistry:
+Students in 3.020 should have previously taken one of the following courses to fulfill MIT's General Institute Requirement (GIR) in Chemistry:
 
 - [*3.091 Introduction to Solid-State Chemistry*](https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/)  or [3.091SC](https://draft.ocw.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/)\*
 - [*5.111 Principles of Chemical Science*](https://ocw.mit.edu/courses/5-111-principles-of-chemical-science-fall-2008/) or [5.111SC](https://draft.ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/)\*
@@ -55,7 +55,7 @@ One of the following courses should be taken as a corequisite:
 - [*18.03 Differential Equations*](https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/)
 - *18.032 Differential Equations*
 
-\*"SC" denotes an [*OCW Scholar*](ocw.mit.edu/course-lists/scholar-courses/) version of a course.
+\*"SC" denotes an [*OCW Scholar*](https://ocw.mit.edu/course-lists/scholar-courses/) version of a course.
 
 ### Requirements Satisfied
 
@@ -76,7 +76,7 @@ One of the following courses should be taken as a corequisite:
 
 35% of the grade is based on laboratory & communication components of the course:
 
-- 20% Lab reports: short virtual student-recorded videos summarizing key lab results, to be submitted       
+- 20% Lab reports: short virtual student-recorded videos summarizing key lab results, to be submitted        
     for each of the three lab experiments
 - 35% Oral presentation
 - 45% Written review article
