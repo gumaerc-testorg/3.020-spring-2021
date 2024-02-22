@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/3-020-thermodynamics-of-materials-spring-2021/mit3_020s21_recitation4_problems.pdf
+file_size: 560577
 file_type: application/pdf
 image_metadata:
   caption: ''

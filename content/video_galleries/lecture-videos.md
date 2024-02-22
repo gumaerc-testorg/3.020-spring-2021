@@ -14,18 +14,15 @@ videos:
   - 9f9f7299-cde2-41ae-b00c-01ed9931cdc8
   - 19bf3fe3-a026-49e6-a182-e41feece9d72
   - 0f42dbf1-3714-4611-b675-2694768ecc67
-  - 16b3df22-4d7c-4fa3-84b7-a1ba0317fe37
   - 5b3797de-b6fe-463f-9edc-85777c5f3f43
   - cc1a2171-99f6-4881-aba7-bcda4e69a6a4
   - b84c1af8-8bb1-4acf-aebe-d6e3f1f9ddd3
   - 6b1f4d08-98aa-4ed3-9a61-87b7df55e3af
   - 940abcc5-84e8-4bf7-84a9-9ebfcd56bf92
-  - c3672f63-e697-4a8d-aeca-bce7e2897244
   - 2402b56c-591a-4b9e-8097-0ffedb0d3c4d
   - 9f66e3cf-3b2e-4d4e-aec5-b65fb4665be1
   - 33442d05-75c3-4e26-9787-b1cb5492fe45
   - ba8e2f9a-fe4e-4335-8b1d-9a9a41aedff0
-  - 8149357d-9a4b-4a29-81bf-134ba12a86ea
   - ff6f3170-8139-44c4-8ae9-9c39a8e2f3bc
   - 3895f331-eb8a-42b5-84c6-e84ccd7abd8b
   - 12142d7b-95ac-4f29-9830-6a2cbc69befd
@@ -38,9 +35,8 @@ videos:
   - d30b91e4-919a-459c-a9ae-5f060ddde56a
   - b7ee9d8d-04a9-461c-85f2-6fd4e4201a53
   - ca99d8d0-6525-45db-af0d-50fb23792938
-  - 1be54670-4e9f-4411-835d-910b845bebb5
-  - c14dc85f-97ac-4211-9e0d-a2378c7fc91d
-  - 4688e46b-3fe9-45b2-b507-c2c227a27969
   website: 3020-thermodynamics-of-materials
 ---
-Note that sessions 12, 25, 33, and the discussion classes were not recorded.
+Note that the Social and Personal discussions and the Game Show session were not recorded. 
+
+Lectures 12 and 25 will be added soon.

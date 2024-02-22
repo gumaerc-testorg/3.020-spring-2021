@@ -5,6 +5,8 @@ draft: false
 title: Syllabus
 uid: 9c277a00-1f00-4039-9537-81d8cf2ea78b
 ---
+*Please note that the information on this page was intended for students enrolled in the residential MIT course and is included to provide insight into how the course was conducted in Spring 2021. OCW is not a distance education program, and we do not offer instructor interactions, grading, or certification of completion.*
+
 ### Course Meeting Times
 
 Lectures: 3 sessions / week, 1 hour / session (attendance encouraged)
@@ -29,7 +31,7 @@ Go to {{% resource_link "6f1dfa42-bfa7-425a-b4e4-c5adec5e525d" "the instructor i
 
 ### Course Description
 
-This course introduces the competition between energetics and disorder that underpins materials thermodynamics. Classical thermodynamic concepts are presented in the context of phase equilibria, including phase transformations, phase diagrams, and chemical reactions.
+This course introduces the competition between energetics and disorder that underpins materials thermodynamics. Classical thermodynamic concepts are presented in the context of phase equilibria, including phase transformations, phase diagrams, and chemical reactions. The course also covers computerized thermodynamics and provides an introduction to statistical thermodynamics.
 
 ### Texts for the Course
 
@@ -95,5 +97,3 @@ The laboratory and CI-M *grades* will be determined by the following:
     - We *strongly* encourage you to work strategically, and to stop work after 60 minutes, to avoid running short of time to upload.
 - You can take the exam at any time within a 24-hour window on the day of the exam; *i.e.*, the window to take the test begins at 12:00:01 am Eastern and ends at 11:59:59 pm Eastern on the test date.
 - Once you download the exam, your 75-minute period begins.
-
-*Please note that this information was intended for students enrolled in the residential MIT course and is included to provide insight into how the course was conducted. OCW is not a distance education program, and we do not offer instructor interactions, grading, or certification of completion.*

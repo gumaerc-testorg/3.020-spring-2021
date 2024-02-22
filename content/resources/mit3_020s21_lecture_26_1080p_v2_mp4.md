@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/3-020-thermodynamics-of-materials-spring-2021/mit3_020s21_lecture_26_1080p_v2_360p_16_9.mp4
-file_size: 1340319696
+file_size: 78377767
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -19,12 +19,12 @@ video_files:
   archive_url: ''
   video_captions_file: /courses/3-020-thermodynamics-of-materials-spring-2021/mit3_020s21_lecture_26_1080p_v2_captions.vtt
   video_thumbnail_file: https://img.youtube.com/vi/ytewFQ5Qp0o/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/3-020-thermodynamics-of-materials-spring-2021/1g6ljTqzRfD253WMxQgYQoox9AD2_5iwj_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: CALPHAD, phase diagrams, thermo-calc
   youtube_description: "MIT 3.020 Thermodynamics of Materials, Spring 2021\nSpeakers:\
-    \ G.B. Olson and Rafael Jaramillo\n\nView the complete course: https://ocw.mit.edu/sites/3020-thermodynamics-of-materials/\n\
+    \ G.B. Olson and Rafael Jaramillo\n\nView the complete course: https://ocw.mit.edu/courses/3-020-thermodynamics-of-materials-spring-2021/\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP61g-yRbJz4ghFPJLiok1HxX\n\
     \nGuest lecture by Prof. G.B. Olson that covers the CALPHAD methodology.\n\nLicense:\
     \ Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore\

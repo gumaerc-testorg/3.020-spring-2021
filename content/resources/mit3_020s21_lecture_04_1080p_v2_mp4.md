@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/3-020-thermodynamics-of-materials-spring-2021/mit3_020s21_lecture_04_1080p_v2_360p_16_9.mp4
-file_size: 1215604466
+file_size: 59584332
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -19,12 +19,12 @@ video_files:
   archive_url: ''
   video_captions_file: /courses/3-020-thermodynamics-of-materials-spring-2021/mit3_020s21_lecture_04_1080p_v2_captions.vtt
   video_thumbnail_file: https://img.youtube.com/vi/38C4YMDFITA/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/3-020-thermodynamics-of-materials-spring-2021/1VAiVCTxp_tyJq27SmKF1ADWchTH1g7ln_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: heat engines, Carnot cycle, Carnot efficiency, Clausius' theorem
   youtube_description: "MIT 3.020 Thermodynamics of Materials, Spring 2021\nInstructor:\
-    \ Rafael Jaramillo\n\nView the complete course: https://ocw.mit.edu/sites/3020-thermodynamics-of-materials/\n\
+    \ Rafael Jaramillo\n\nView the complete course: https://ocw.mit.edu/courses/3-020-thermodynamics-of-materials-spring-2021/\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP61g-yRbJz4ghFPJLiok1HxX\n\
     \nThis lecture covers heat engines, the Carnot cycle with ideal gas, Carnot efficiency,\
     \ and Clausius' theorem.\n\nLicense: Creative Commons BY-NC-SA\nMore information\

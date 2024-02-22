@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /gdrive_uploads/3020-thermodynamics-of-materials/1hCXqr2cZcutTY606O4TA6e0niVfBRwin/mit3_020s21_lightboard_03_1080p.mp4
-file_size: ''
+file_size: 566586021
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -16,7 +16,7 @@ resourcetype: Video
 title: 'Supplemental Video: The Lever Rule'
 uid: 8149357d-9a4b-4a29-81bf-134ba12a86ea
 video_files:
-  archive_url: ''
+  archive_url: https://archive.org/download/mit3_020s21/mit3_020s21_lightboard_03_360p.mp4
   video_captions_file: /courses/3-020-thermodynamics-of-materials-spring-2021/1hCXqr2cZcutTY606O4TA6e0niVfBRwin_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/xKcqFFTIwYo/default.jpg
   video_transcript_file: /courses/3-020-thermodynamics-of-materials-spring-2021/1hCXqr2cZcutTY606O4TA6e0niVfBRwin_transcript.pdf
@@ -24,7 +24,7 @@ video_metadata:
   video_speakers: ''
   video_tags: level rule, phase diagram
   youtube_description: "MIT 3.020 Thermodynamics of Materials, Spring 2021\nInstructor:\
-    \ Rafael Jaramillo\n\nView the complete course: https://ocw.mit.edu/sites/3020-thermodynamics-of-materials/\n\
+    \ Rafael Jaramillo\n\nView the complete course: https://ocw.mit.edu/courses/3-020-thermodynamics-of-materials-spring-2021/\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP61g-yRbJz4ghFPJLiok1HxX\n\
     \nThis video explains and diagrams the lever rule.\n\nLicense: Creative Commons\
     \ BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\n\

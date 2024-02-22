@@ -8,7 +8,7 @@ uid: ce30c4c2-5161-4110-b08d-7ce1d29e972a
 ---
 ## Lecture Readings
 
-See the {{% resource_link "0cf92f71-39da-412d-b0d4-49a999b084a9" "calendar section" %}} for the schedule of required readings.
+See the {{% resource_link "0cf92f71-39da-412d-b0d4-49a999b084a9" "calendar section" %}} for the schedule of readings.
 
 ### Textbook
 
@@ -16,27 +16,22 @@ DeHoff, Robert. *Thermodynamics in Materials Science.* 2nd ed. CRC Press, 2006. 
 
 ### Additional Readings
 
-Denbigh, Kenneth. Chapter 4 in *The Principles of Chemical Equilibrium*, 4th ed. Cambridge University Press, 1981. ISBN: 9780521281508.
+- Denbigh, Kenneth. Chapter 4 in *The Principles of Chemical Equilibrium*, 4th ed. Cambridge University Press, 1981. ISBN: 9780521281508.
+- Callister, William D. "Phase Diagrams." Chapter 9 in *Materials Science and Engineering: An Introduction*, 8th ed., John Wiley & Sons, 2018. ISBN: 9780470419977.
+- Chandler, David. "Statistical Mechanics." Chapter 3 in *Introduction to Modern Statistical Mechanics,* 2nd ed., Oxford University Press, 1987. ISBN: 9780195042771.
+- Clerc, Daryl G., and David A. Cleary. "Spinodal Decomposition as an Interesting Example of the Application of Several Thermodynamic Principles." *Journal of Chemical Education* 72, no. 2 (1995): 112–115.
+- Ferrie, Chris. *Statistical Physics for Babies.* Sourcebooks, 2018. ISBN: 9781492670308.
 
-Callister, William D. "Phase Diagrams." Chapter 9 in *Materials Science and Engineering: An Introduction*, 8th ed., John Wiley & Sons, 2018. ISBN: 9780470419977.
-
-Chandler, David. "Statistical Mechanics." Chapter 3 in *Introduction to Modern Statistical Mechanics,* 2nd ed., Oxford University Press, 1987. ISBN: 9780195042771.
-
-Clerc, Daryl G., and David A. Cleary. "Spinodal Decomposition as an Interesting Example of the Application of Several Thermodynamic Principles." *Journal of Chemical Education* 72, no. 2 (1995): 112–115.
-
-Ferrie, Chris. *Statistical Physics for Babies.* Sourcebooks, 2018. ISBN: 9781492670308.
-
-## Readings for Class Discussion Sessions
+## Readings for Discussion Sessions
 
 *Novel for the course this year, two class sessions were devoted to discussing the social and personal aspects of working in the field of materials science. The intention was to have students explore their individual purpose and motivation for pursuing careers in science and engineering, and to have them think about the impact of their work on the wider world.*
 
-### Discussion Class 1
+### Social and Personal Session 1
 
 #### Required Reading
 
-Kaiser, David. "[The search for clean cash](https://www.nature.com/articles/472030a)." *Nature* 472 (2011): 30-31.
-
-Kaiser, David. "[History: Shut up and calculate!](https://www.nature.com/articles/505153a)" *Nature* 505 (2014): 153-155.
+- Kaiser, David. "[The search for clean cash](https://www.nature.com/articles/472030a)." *Nature* 472 (2011): 30-31.
+- Kaiser, David. "[History: Shut up and calculate!](https://www.nature.com/articles/505153a)" *Nature* 505 (2014): 153-155.
 
 #### At least one of the two following story collections
 
@@ -53,7 +48,7 @@ Kaiser, David. "[History: Shut up and calculate!](https://www.nature.com/article
 - "[The Nobel Prize in Chemistry 1918](https://www.nobelprize.org/prizes/chemistry/1918/summary/)." NobelPrize.org.
 - Radiolab. "[The Bad Show](https://radiolab.org/podcast/bad-show)" (Haber segment). Radiolab Podcast, July 27, 2018.
 
-### Discussion Class 2
+### Social and Personal Session 2
 
 #### Required Reading
 

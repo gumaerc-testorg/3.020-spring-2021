@@ -6,7 +6,9 @@ draft: false
 title: Lecture Notes
 uid: 035cbabe-684f-4ae4-b662-1b832d177d01
 ---
-The lecture notes are available here in PDF (.pdf) and LaTeX (.tex) file formats. Some of the LaTeX files can be downloaded as ZIP archives (.zip) to include the associated image files.
+The lecture notes are available here in PDF (.pdf) and LaTeX (.tex) file formats. Some of the LaTeX files can be downloaded as ZIP archives (.zip) to include the associated image files. 
+
+Notes for lecture 26 are not available.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 Lecture Notes: PDF Format

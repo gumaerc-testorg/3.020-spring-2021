@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/3-020-thermodynamics-of-materials-spring-2021/mit3_020s21_lecture_10_1080p_v2_360p_16_9.mp4
-file_size: 1105596177
+file_size: 61677319
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -19,13 +19,13 @@ video_files:
   archive_url: ''
   video_captions_file: /courses/3-020-thermodynamics-of-materials-spring-2021/mit3_020s21_lecture_10_1080p_v2_captions.vtt
   video_thumbnail_file: https://img.youtube.com/vi/oMc0F8cxvNI/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/3-020-thermodynamics-of-materials-spring-2021/1Ttwtbsz3qQl3luI_MwnY2FDJ_3ri-5l9_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: unary phase transformations, Gibbs surfaces, reaction quantities, transformation
     quantities
   youtube_description: "MIT 3.020 Thermodynamics of Materials, Spring 2021\nInstructor:\
-    \ Rafael Jaramillo\n\nView the complete course: https://ocw.mit.edu/sites/3020-thermodynamics-of-materials/\n\
+    \ Rafael Jaramillo\n\nView the complete course: https://ocw.mit.edu/courses/3-020-thermodynamics-of-materials-spring-2021/\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP61g-yRbJz4ghFPJLiok1HxX\n\
     \nThis lecture covers unary phase transformations, Gibbs surfaces, and reaction/transformation\
     \ quantities.\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\n\
