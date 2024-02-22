@@ -248,7 +248,7 @@ Introduction to solutions, general case
 - Introduction to solution modeling
 
 {{< tdclose >}}{{< tdopen >}}
-Callister: ch. 9.–9.6                   
+Callister: ch. 9.–9.6                      
 DeHoff: ch. 8.1
 {{< tdclose >}}{{< tdopen >}}
 Pset 4
@@ -313,9 +313,13 @@ Exam 2
 {{< tdclose >}}{{< tdopen >}}
 \-
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Class SP1
+Class SP1\*
 {{< tdclose >}}{{< tdopen >}}
-Discussion 1: Social and personal aspects of working in the field of materials science\*
+
+Social and personal 1
+
+- Discuss social and personal aspects of working in the field of materials science
+
 {{< tdclose >}}{{< tdopen >}}
 *See* {{% resource_link "ce30c4c2-5161-4110-b08d-7ce1d29e972a" "*readings section*" %}} *for options*
 {{< tdclose >}}{{< tdopen >}}
@@ -450,7 +454,7 @@ Computational statistical thermodynamics
 
 - Understand probability distributions and the Boltzmann distribution
 - Understand origin of temperature from microscopic degrees of freedom 
-- Understand fluctuations and thermalization                   
+- Understand fluctuations and thermalization                      
      
 
 {{< tdclose >}}{{< tdopen >}}
@@ -557,9 +561,13 @@ Case study: Reacting, multi-component, multi-phase systems
 {{< tdclose >}}{{< tdopen >}}
 Pset 10
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Class SP2
+Class SP2\*
 {{< tdclose >}}{{< tdopen >}}
-Discussion 2: Social and personal aspects of working in the field of materials science\*
+
+Social and personal 2
+
+- Discuss social and personal aspects of working in the field of materials science
+
 {{< tdclose >}}{{< tdopen >}}
 *See* {{% resource_link "ce30c4c2-5161-4110-b08d-7ce1d29e972a" "*readings section*" %}}
 {{< tdclose >}}{{< tdopen >}}
@@ -583,3 +591,5 @@ Final Exam
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 \**Novel for the course this year, two class sessions were devoted to discussing the social and personal aspects of working in the field of materials science. The intention was to have students explore their individual purpose and motivation for pursuing careers in science and engineering, and to have them think about the impact of their work on the wider world.*
+
+*Please note that the information on this page was intended for students enrolled in the residential MIT course and is included to provide insight into how the course was conducted in Spring 2021. OCW is not a distance education program, and we do not offer instructor interactions, grading, or certification of completion.*

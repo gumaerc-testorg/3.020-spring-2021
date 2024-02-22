@@ -27,7 +27,8 @@
     "website": "3020-thermodynamics-of-materials"
   },
   "course_title": "Thermodynamics of Materials",
-  "course_description": "This course introduces the competition between energetics and disorder that underpins materials thermodynamics. Classical thermodynamic concepts are presented in the context of phase equilibria, including phase transformations, phase diagrams, and chemical reactions.",
+  "hide_download": false,
+  "course_description": "This course introduces the competition between energetics and disorder that underpins materials thermodynamics. Classical thermodynamic concepts are presented in the context of phase equilibria including phase transformations, phase diagrams, and chemical reactions. The course also covers computerized thermodynamics and provides an introduction to statistical thermodynamics.",
   "department_numbers": [
     "3"
   ],
@@ -44,7 +45,7 @@
     "Presentation Assignments",
     "Problem Sets",
     "Readings",
-    "Tutorial Videos"
+    "Demonstration Videos"
   ],
   "site_uid": "7a852892-d940-4d19-87a4-6d8994213bf9",
   "site_short_id": "3.020-spring-2021"

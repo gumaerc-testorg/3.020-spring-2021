@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/3-020-thermodynamics-of-materials-spring-2021/mit3_020s21_lecture06.tex
+file_size: 6935
 file_type: text/x-tex
 image_metadata:
   caption: ''
