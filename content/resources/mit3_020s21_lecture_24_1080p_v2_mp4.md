@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/3-020-thermodynamics-of-materials-spring-2021/mit3_020s21_lecture_24_1080p_v2_360p_16_9.mp4
-file_size: 702781159
+file_size: 51610930
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -19,12 +19,12 @@ video_files:
   archive_url: ''
   video_captions_file: /courses/3-020-thermodynamics-of-materials-spring-2021/mit3_020s21_lecture_24_1080p_v2_captions.vtt
   video_thumbnail_file: https://img.youtube.com/vi/2TYcEq9uHDE/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/3-020-thermodynamics-of-materials-spring-2021/18D31d-QOf8YrMoO49uaoK3QJv2Jq1M0G_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: peritectic, intermediate phases, Thermo-Calc
   youtube_description: "MIT 3.020 Thermodynamics of Materials, Spring 2021\nInstructor:\
-    \ Rafael Jaramillo\n\nView the complete course: https://ocw.mit.edu/sites/3020-thermodynamics-of-materials/\n\
+    \ Rafael Jaramillo\n\nView the complete course: https://ocw.mit.edu/courses/3-020-thermodynamics-of-materials-spring-2021/\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP61g-yRbJz4ghFPJLiok1HxX\n\
     \nThis lecture covers peritectic systems, intermediate phases, exploring Thermo-Calc,\
     \ and line compounds.\n\nLicense: Creative Commons BY-NC-SA\nMore information\

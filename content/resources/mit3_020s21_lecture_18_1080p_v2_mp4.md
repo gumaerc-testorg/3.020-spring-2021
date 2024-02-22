@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/3-020-thermodynamics-of-materials-spring-2021/mit3_020s21_lecture_18_1080p_v2_360p_16_9.mp4
-file_size: 1229855180
+file_size: 68467423
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -19,12 +19,12 @@ video_files:
   archive_url: ''
   video_captions_file: /courses/3-020-thermodynamics-of-materials-spring-2021/mit3_020s21_lecture_18_1080p_v2_captions.vtt
   video_thumbnail_file: https://img.youtube.com/vi/-8kB7xIdKSM/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/3-020-thermodynamics-of-materials-spring-2021/1S3nZKFa8AAOywYFkhFRsnVCNsU8KWLLx_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: "reacting gas system, van\u2019t Hoff, Le Chatelier, Nernst, Daniell"
   youtube_description: "MIT 3.020 Thermodynamics of Materials, Spring 2021\nInstructor:\
-    \ Rafael Jaramillo\n\nView the complete course: https://ocw.mit.edu/sites/3020-thermodynamics-of-materials/\n\
+    \ Rafael Jaramillo\n\nView the complete course: https://ocw.mit.edu/courses/3-020-thermodynamics-of-materials-spring-2021/\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP61g-yRbJz4ghFPJLiok1HxX\n\
     \nThis lecture looks at cases involving estimating properties of reacting gas\
     \ systems, and the Nernst equation.\n\nLicense: Creative Commons BY-NC-SA\nMore\
