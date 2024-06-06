@@ -1,9 +1,9 @@
 ---
 body: ''
 content_type: resource
-draft: true
-file: /courses/3-020-thermodynamics-of-materials-spring-2021/mit3_020s21_lecture_26_1080p_360p_16_9.mp4
-file_size: 78355927
+draft: false
+file: /courses/3-020-thermodynamics-of-materials-spring-2021/mit3_020s21_lecture_26_1080p_v3_360p_16_9.mp4
+file_size: 78987050
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -14,12 +14,12 @@ learning_resource_types:
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: 'Lecture 26: CALPHAD - Case Studies and Guest Lecture'
-uid: 8a7c34a9-12dc-43d8-a1fc-0bc2c1110855
+uid: bb7ca397-1129-4f56-806e-749e233b635c
 video_files:
   archive_url: ''
-  video_captions_file: /courses/3-020-thermodynamics-of-materials-spring-2021/1g6ljTqzRfD253WMxQgYQoox9AD2_5iwj_transcript.webvtt
-  video_thumbnail_file: https://img.youtube.com/vi/IbGcuS8_QOo/default.jpg
-  video_transcript_file: /courses/3-020-thermodynamics-of-materials-spring-2021/1g6ljTqzRfD253WMxQgYQoox9AD2_5iwj_transcript.pdf
+  video_captions_file: /courses/3-020-thermodynamics-of-materials-spring-2021/mit3_020s21_lecture_26_1080p_v3_captions.vtt
+  video_thumbnail_file: https://img.youtube.com/vi/AKqq9-c6uMo/default.jpg
+  video_transcript_file: /courses/3-020-thermodynamics-of-materials-spring-2021/mit3_020s21_lecture_26_1080p_v3_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: CALPHAD, phase diagrams, Thermo-Calc
@@ -32,6 +32,6 @@ video_metadata:
     We encourage constructive comments and discussion on OCW\u2019s YouTube and other\
     \ social media channels. Personal attacks, hate speech, trolling, and inappropriate\
     \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
-  youtube_id: IbGcuS8_QOo
+  youtube_id: AKqq9-c6uMo
 ---
 Guest lecture by Prof. G.B. Olson that covers the CALPHAD methodology.
