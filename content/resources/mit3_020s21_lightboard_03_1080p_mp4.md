@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /gdrive_uploads/3020-thermodynamics-of-materials/1hCXqr2cZcutTY606O4TA6e0niVfBRwin/mit3_020s21_lightboard_03_1080p.mp4
+file: null
 file_size: 566586021
 file_type: video/mp4
 image_metadata:
