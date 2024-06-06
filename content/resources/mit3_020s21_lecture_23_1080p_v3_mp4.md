@@ -1,9 +1,9 @@
 ---
 body: ''
 content_type: resource
-draft: true
-file: /courses/3-020-thermodynamics-of-materials-spring-2021/mit3_020s21_lecture_23_1080p_360p_16_9.mp4
-file_size: 63445427
+draft: false
+file: /courses/3-020-thermodynamics-of-materials-spring-2021/mit3_020s21_lecture_23_1080p_v3_360p_16_9.mp4
+file_size: 63439722
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -14,12 +14,12 @@ learning_resource_types:
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: 'Lecture 23: Building Binary Phase Diagrams, Part I'
-uid: 9de2ed50-436e-4665-9680-082f679c7e5a
+uid: c1399222-1477-4243-a460-3acf4278967d
 video_files:
   archive_url: ''
-  video_captions_file: /courses/3-020-thermodynamics-of-materials-spring-2021/1Ag0Z4n7Uz_EoclthLQs-qZX-BbR3F8Bt_transcript.webvtt
-  video_thumbnail_file: https://img.youtube.com/vi/gbyHOCOkBvY/default.jpg
-  video_transcript_file: /courses/3-020-thermodynamics-of-materials-spring-2021/1Ag0Z4n7Uz_EoclthLQs-qZX-BbR3F8Bt_transcript.pdf
+  video_captions_file: /courses/3-020-thermodynamics-of-materials-spring-2021/mit3_020s21_lecture_23_1080p_v3_captions.vtt
+  video_thumbnail_file: https://img.youtube.com/vi/Pv-fEkhscqo/default.jpg
+  video_transcript_file: /courses/3-020-thermodynamics-of-materials-spring-2021/mit3_020s21_lecture_23_1080p_v3_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: taut rope construction, lens diagrams, eutectic systems
@@ -32,6 +32,6 @@ video_metadata:
     \nWe encourage constructive comments and discussion on OCW\u2019s YouTube and\
     \ other social media channels. Personal attacks, hate speech, trolling, and inappropriate\
     \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
-  youtube_id: gbyHOCOkBvY
+  youtube_id: Pv-fEkhscqo
 ---
 This lecture covers the taut rope construction, lens diagrams, and eutectic systems.
