@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Lecture 30: Intermediate Phases and Reactions'
+title: 'Lecture 30: Intermediate Phases and Reactions (old)'
 uid: c1e611f0-dc08-4412-8502-4603b52d3d73
 video_files:
   archive_url: ''

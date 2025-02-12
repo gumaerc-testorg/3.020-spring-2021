@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Lecture 24: Building Binary Phase Diagrams, Part II'
+title: 'Lecture 24: Building Binary Phase Diagrams, Part II (old)'
 uid: cef69290-0149-4f5a-88f9-a54fb733bc18
 video_files:
   archive_url: ''

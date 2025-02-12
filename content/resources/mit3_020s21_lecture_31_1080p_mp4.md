@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Lecture 31: Reacting Multi-phase Systems'
+title: 'Lecture 31: Reacting Multi-phase Systems (old)'
 uid: b7ee9d8d-04a9-461c-85f2-6fd4e4201a53
 video_files:
   archive_url: ''

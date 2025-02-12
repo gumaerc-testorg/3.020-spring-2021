@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Lecture 26: CALPHAD - Case Studies and Guest Lecture'
+title: 'Lecture 26: CALPHAD - Case Studies and Guest Lecture (old)'
 uid: ca8109a7-d7e8-4c3e-874f-c757fedd9797
 video_files:
   archive_url: ''

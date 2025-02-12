@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Lecture 15: Introduction to Solutions, General Case'
+title: 'Lecture 15: Introduction to Solutions, General Case (old)'
 uid: 23b1a967-a286-4bce-a080-50cf525e75d3
 video_files:
   archive_url: ''

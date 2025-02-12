@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Lecture 9: Case Studies - Specific Heats and Phase Transformations'
+title: 'Lecture 9: Case Studies - Specific Heats and Phase Transformations (old)'
 uid: 0f42dbf1-3714-4611-b675-2694768ecc67
 video_files:
   archive_url: ''
