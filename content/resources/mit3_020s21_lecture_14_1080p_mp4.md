@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Lecture 14: Reacting Gas Mixtures at Equillibrium'
+title: 'Lecture 14: Reacting Gas Mixtures at Equilibrium (old)'
 uid: 8d8a92f1-7eeb-46b4-8a35-c8bdb4674a6c
 video_files:
   archive_url: ''

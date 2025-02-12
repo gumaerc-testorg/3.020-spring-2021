@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Lecture 4: Heat Engines and Energy Conversion Efficiency'
+title: 'Lecture 4: Heat Engines and Energy Conversion Efficiency (old)'
 uid: 4cbfb61c-123c-4949-82e6-fde589ec868e
 video_files:
   archive_url: ''

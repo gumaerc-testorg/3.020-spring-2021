@@ -13,7 +13,8 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Lecture 8: Mathematical Implications of Equilibrium and Spontaneous Processes'
+title: 'Lecture 8: Mathematical Implications of Equilibrium and Spontaneous Processes
+  (old)'
 uid: 4ef7cc4b-fbf4-4114-8088-ada17bfe5a0d
 video_files:
   archive_url: ''

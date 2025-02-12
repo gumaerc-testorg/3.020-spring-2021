@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Lecture 32: Case Study - Reacting, Multi-component, Multi-phase Systems'
+title: 'Lecture 32: Case Study - Reacting, Multi-component, Multi-phase Systems (old)'
 uid: 84c460ea-e9da-4bf1-9c73-f2c2e5271d88
 video_files:
   archive_url: ''

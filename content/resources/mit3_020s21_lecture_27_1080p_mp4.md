@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Lecture 27: Introduction to Statistical Thermodynamics'
+title: 'Lecture 27: Introduction to Statistical Thermodynamics (old)'
 uid: 92d63f1d-0eb5-4339-b665-32350405ccb9
 video_files:
   archive_url: ''
