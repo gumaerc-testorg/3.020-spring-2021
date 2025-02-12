@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Lecture 19: Regular Solution Models and Stability'
+title: 'Lecture 19: Regular Solution Models and Stability (old)'
 uid: a576b32a-2adf-4f1e-82b9-e9a8d5a3c494
 video_files:
   archive_url: ''

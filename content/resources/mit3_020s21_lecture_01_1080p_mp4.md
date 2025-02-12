@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Lecture 1: Introduction to Thermodynamics'
+title: 'Lecture 1: Introduction to Thermodynamics (old)'
 uid: b72da8c1-fc01-48d3-84ce-6aecdce3872a
 video_files:
   archive_url: ''

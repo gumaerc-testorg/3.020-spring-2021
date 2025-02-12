@@ -13,7 +13,8 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Lecture 18: Case Study in Reacting Gas Mixtures - Introducing the Nernst Equation'
+title: 'Lecture 18: Case Study in Reacting Gas Mixtures - Introducing the Nernst Equation
+  (old)'
 uid: b14341c8-d431-46b0-b971-816783f5f367
 video_files:
   archive_url: ''

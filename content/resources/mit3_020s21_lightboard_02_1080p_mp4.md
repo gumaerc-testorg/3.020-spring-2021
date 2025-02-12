@@ -13,7 +13,7 @@ learning_resource_types:
 - Demonstration Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Supplemental Video: Ternary Phase Diagram and Ouzo Demo'
+title: 'Supplemental Video: Ternary Phase Diagram and Ouzo Demo (old)'
 uid: f59e3dcc-7b57-4c42-a329-4cc87a28b26a
 video_files:
   archive_url: ''

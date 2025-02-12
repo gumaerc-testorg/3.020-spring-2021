@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Lecture 11: Phase Coexistence in Unary Systems'
+title: 'Lecture 11: Phase Coexistence in Unary Systems (old)'
 uid: 30046c13-2105-4dd1-b2a6-cd40aa321470
 video_files:
   archive_url: ''

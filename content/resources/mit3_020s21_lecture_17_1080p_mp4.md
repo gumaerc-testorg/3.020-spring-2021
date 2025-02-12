@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Lecture 17: Solution Models - Ideal, Dilute, and Regular'
+title: 'Lecture 17: Solution Models - Ideal, Dilute, and Regular (old)'
 uid: 738509d3-0a99-43de-aac7-b9884fef57ba
 video_files:
   archive_url: ''

@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Lecture 20: Introduction to Binary Phase Diagrams'
+title: 'Lecture 20: Introduction to Binary Phase Diagrams (old)'
 uid: 84003103-7c00-4b45-ba55-48cced5d09e7
 video_files:
   archive_url: ''

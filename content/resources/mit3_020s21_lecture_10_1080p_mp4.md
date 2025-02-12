@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Lecture 10: Introduction to Unary Phase Transformations'
+title: 'Lecture 10: Introduction to Unary Phase Transformations (old)'
 uid: 2184502c-1763-45b4-b990-edeed38faf6b
 video_files:
   archive_url: ''
