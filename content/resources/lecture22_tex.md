@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/3-020-thermodynamics-of-materials-spring-2021/mit3_020s21_lecture22_tex.zip
+file: courses/3020-thermodynamics-of-materials/mit3_020s21_lecture22_tex.zip
 file_size: 1297943
 file_type: application/x-zip-compressed
 image_metadata:
@@ -10,12 +10,13 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Editable Files
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Other
 title: Lecture22_tex.zip
 uid: 2672f3bd-eb1a-4b06-87ec-0cde11e52bd3
 video_files:
+  archive_url: ''
   video_captions_file: ''
   video_thumbnail_file: ''
   video_transcript_file: ''
