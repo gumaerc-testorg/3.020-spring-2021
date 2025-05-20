@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: true
-file: /ol-ocw-studio-app/courses/3-020-thermodynamics-of-materials-spring-2021/mit3_020s21_lecture_09_1080p_360p_16_9.mp4
+file: courses/3020-thermodynamics-of-materials/mit3_020s21_lecture_09_1080p_360p_16_9.mp4
 file_size: 65563093
 file_type: video/mp4
 image_metadata:

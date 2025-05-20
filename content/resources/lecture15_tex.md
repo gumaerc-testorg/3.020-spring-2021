@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/3-020-thermodynamics-of-materials-spring-2021/mit3_020s21_lecture15_tex.zip
+file: courses/3020-thermodynamics-of-materials/mit3_020s21_lecture15_tex.zip
 file_size: 1636860
 file_type: application/x-zip-compressed
 image_metadata:
