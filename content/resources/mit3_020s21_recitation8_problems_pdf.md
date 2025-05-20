@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/3-020-thermodynamics-of-materials-spring-2021/mit3_020s21_recitation8_problems.pdf
+file: courses/3020-thermodynamics-of-materials/mit3_020s21_recitation8_problems.pdf
 file_size: 658263
 file_type: application/pdf
 image_metadata:
