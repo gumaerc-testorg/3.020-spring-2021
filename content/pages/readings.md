@@ -12,7 +12,7 @@ See the {{% resource_link "0cf92f71-39da-412d-b0d4-49a999b084a9" "calendar secti
 
 ### Textbook
 
-DeHoff, Robert. *Thermodynamics in Materials Science.* 2nd ed. CRC Press, 2006. ISBN (print): 9780849340659. ISBN (eText): 9781420005851. \[[Google Books Preview](https://www.google.com/books/edition/_/uV_LBQAAQBAJ?hl=en&gbpv=1&pg=PP1)\]
+DeHoff, Robert. *Thermodynamics in Materials Science.* 2nd ed. CRC Press, 2006. ISBN (print): 9780849340659. ISBN (eText): 9781420005851. \[{{% resource_link "ba2be7a6-8d8f-449f-81ef-ad7017e41075" "Google Books Preview" %}}\]
 
 ### Additional Readings
 
@@ -30,33 +30,33 @@ DeHoff, Robert. *Thermodynamics in Materials Science.* 2nd ed. CRC Press, 2006. 
 
 #### Required Reading
 
-- Kaiser, David. "[The search for clean cash](https://www.nature.com/articles/472030a)." *Nature* 472 (2011): 30-31.
-- Kaiser, David. "[History: Shut up and calculate!](https://www.nature.com/articles/505153a)" *Nature* 505 (2014): 153-155.
+- Kaiser, David. "{{% resource_link "49dc85c4-c0d9-4443-b520-1f9af7f9c35f" "The search for clean cash" %}}." *Nature* 472 (2011): 30-31.
+- Kaiser, David. "{{% resource_link "e661a3fd-0449-42ae-bd51-3a0daa0018a9" "History: Shut up and calculate!" %}}" *Nature* 505 (2014): 153-155.
 
 #### At least one of the two following story collections
 
 **Stories of Mapmaking**
 
-- "[The Great Trigonometrical Survey](https://en.wikipedia.org/w/index.php?title=Great_Trigonometrical_Survey&oldid=1014665563)." Wikipedia.
+- "{{% resource_link "49cdfe77-8671-47a0-803c-4aa587b5abb0" "The Great Trigonometrical Survey" %}}." Wikipedia.
 - "Surveying Empires: The Great Trigonometrical Survey of India." ArcGIS StoryMaps. 
-- McCarthy, Tom. "[The Mapmaker’s Conundrum](https://www.newyorker.com/books/page-turner/the-mapmakers-conundrum)." *The New Yorker*, June 27, 2014.
-- Owen, David. "[How a Young Activist Is Helping Pope Francis Battle Climate Change](https://www.newyorker.com/magazine/2021/02/08/how-a-young-activist-is-helping-pope-francis-battle-climate-change)." *The New Yorker,* February 8, 2021. 
+- McCarthy, Tom. "{{% resource_link "3d8fa9a3-0dcd-46fb-8c3c-dea160b3197b" "The Mapmaker’s Conundrum" %}}." *The New Yorker*, June 27, 2014.
+- Owen, David. "{{% resource_link "2ad1f9d4-5ed2-45e5-a676-4282f97d0065" "How a Young Activist Is Helping Pope Francis Battle Climate Change" %}}." *The New Yorker,* February 8, 2021. 
 
 **Stories of Chemistry**
 
-- King, Gilbert. "[Fritz Haber’s Experiments in Life and Death](https://www.smithsonianmag.com/history/fritz-habers-experiments-in-life-and-death-114161301/)." *Smithsonian Magazine,* June 6, 2012. 
-- "[The Nobel Prize in Chemistry 1918](https://www.nobelprize.org/prizes/chemistry/1918/summary/)." NobelPrize.org.
-- Radiolab. "[The Bad Show](https://radiolab.org/podcast/bad-show)" (Haber segment). Radiolab Podcast, July 27, 2018.
+- King, Gilbert. "{{% resource_link "0c3b3c82-3752-4e38-ad2c-78f8770f68ce" "Fritz Haber’s Experiments in Life and Death" %}}." *Smithsonian Magazine,* June 6, 2012. 
+- "{{% resource_link "ed773fea-69e7-4591-973c-2b55623838bd" "The Nobel Prize in Chemistry 1918" %}}." NobelPrize.org.
+- Radiolab. "{{% resource_link "18117944-fc2a-40d8-ae6f-d0173f7d49cc" "The Bad Show" %}}" (Haber segment). Radiolab Podcast, July 27, 2018.
 
 ### Social and Personal Session 2
 
 #### Required Reading
 
-Rothman, Joshua. "[How Does Science Really Work](https://www.newyorker.com/magazine/2020/10/05/how-does-science-really-work)?" *The New Yorker*, September 28, 2020. 
+Rothman, Joshua. "{{% resource_link "033d4d7f-f08f-414f-b052-d6c7bcf5ad9b" "How Does Science Really Work" %}}?" *The New Yorker*, September 28, 2020. 
 
 #### Required: At least one of the following stories of individual careers
 
-- Fabbiano, Giuseppina. "[The woman who explained the stars](https://doi.org/10.1038/d41586-020-00509-3)." *Nature* 578 (2020): 509–510. 
-- Famous Scientists. "[Subrahmanyan Chandrasekhar](https://www.famousscientists.org/subrahmanyan-chandrasekhar/)." FamousScientists.org. 
-- Hubbard, Ruth. "[Dark Lady of DNA: Book Review](https://www.jstor.org/stable/10.1086/345333)." *Signs: Journal of Women in Culture and Society* 28, no. 3 (2003): 973–975.
-- Mielczarek, Eugenie. "[Rosalind Franklin: The Dark Lady of DNA](https://doi.org/10.1063/1.1564352)." *Physics Today* 56, no. 2 (2003): 61–62.
+- Fabbiano, Giuseppina. "{{% resource_link "b6fa1869-e879-46ef-8c23-b9fdc9aa2c0d" "The woman who explained the stars" %}}." *Nature* 578 (2020): 509–510. 
+- Famous Scientists. "{{% resource_link "3ac39496-5c4d-422d-9212-b536bfb890e9" "Subrahmanyan Chandrasekhar" %}}." FamousScientists.org. 
+- Hubbard, Ruth. "{{% resource_link "28f49ce9-da66-42b3-b123-77d2f5fb7abe" "Dark Lady of DNA: Book Review" %}}." *Signs: Journal of Women in Culture and Society* 28, no. 3 (2003): 973–975.
+- Mielczarek, Eugenie. "{{% resource_link "d40bc8c3-ca4b-4580-b279-975c5d652852" "Rosalind Franklin: The Dark Lady of DNA" %}}." *Physics Today* 56, no. 2 (2003): 61–62.
