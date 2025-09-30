@@ -17,17 +17,17 @@ Labs: 3 sessions, 2 hours / session
 
 ### Prerequisites/Corequisites
 
-Chemistry ([GIR](https://registrar.mit.edu/registration-academics/academic-requirements/general-institute-requirements)) is a prerequisite. This requirement can be met with one of the following MIT courses:
+Chemistry ({{% resource_link "177e2cec-2b39-403a-a2dc-7477596f1da1" "GIR" %}}) is a prerequisite. This requirement can be met with one of the following MIT courses:
 
-- [*3.091 Introduction to Solid-State Chemistry*](https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/)  or [3.091SC](https://draft.ocw.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/)\*
-- [*5.111 Principles of Chemical Science*](https://ocw.mit.edu/courses/5-111-principles-of-chemical-science-fall-2008/) or [5.111SC](https://draft.ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/)\*
-- [*5.112 Principles of Chemical Science*](https://ocw.mit.edu/courses/5-112-principles-of-chemical-science-fall-2005/)
+- {{% resource_link "a156f7f9-88d8-44cf-b830-9f97009c44f6" "*3.091 Introduction to Solid-State Chemistry*" %}}  or {{% resource_link "6522a437-dc50-4777-b723-187d2641aad6" "3.091SC" %}}\*
+- {{% resource_link "f90d0e98-8c09-4e69-a4e8-3230414d089b" "*5.111 Principles of Chemical Science*" %}} or {{% resource_link "f3679000-9e19-491b-aedc-e616e3058819" "5.111SC" %}}\*
+- {{% resource_link "e16515b0-347f-48ca-a0f6-a70c78f859f5" "*5.112 Principles of Chemical Science*" %}}
 
-[*18.03 Differential Equations*](https://ocw.mit.edu/search/?q=18.03) or the Honors version 18.032 is a *corequisite*, meaning students can take 3.020 and 18.03 (or 18.032) at the same time.
+{{% resource_link "9ac4eded-16d4-4c6a-a77f-381524f41ca0" "*18.03 Differential Equations*" %}} or the Honors version 18.032 is a *corequisite*, meaning students can take 3.020 and 18.03 (or 18.032) at the same time.
 
 Go to {{% resource_link "6f1dfa42-bfa7-425a-b4e4-c5adec5e525d" "the instructor insights section" %}} for more details about how this course fits into the MIT Curriculum.
 
-\*"SC" denotes an [OCW Scholar](https://ocw.mit.edu/course-lists/scholar-courses/) version of a course. OCW Scholar courses contain complete multi-media resources designed for independent learners and are organized sequentially.
+\*"SC" denotes an {{% resource_link "465617c9-77dd-4cbe-8b24-c3fd57167362" "OCW Scholar" %}} version of a course. OCW Scholar courses contain complete multi-media resources designed for independent learners and are organized sequentially.
 
 ### Course Description
 
@@ -66,7 +66,7 @@ Additional, required supplementary readings will be from the following textbooks
 
 ### Communication-Intensive Activities
 
-This course satisfies MIT's [CI-M requirement](https://registrar.mit.edu/registration-academics/academic-requirements/communication-requirement/ci-m-subjects) through two communication-focused activities associated with the lab component. These activities will consist of (i) a virtual oral presentation on a technical topic related to the course subject material, aimed at a general audience, and (ii) a written review of an active research field, aimed at a technical audience. Details of these activities will be provided. Students will also participate in communication-focused instruction sessions during scheduled lab and recitation times.
+This course satisfies MIT's {{% resource_link "e3631442-c257-42ec-b32b-352578fd51b1" "CI-M requirement" %}} through two communication-focused activities associated with the lab component. These activities will consist of (i) a virtual oral presentation on a technical topic related to the course subject material, aimed at a general audience, and (ii) a written review of an active research field, aimed at a technical audience. Details of these activities will be provided. Students will also participate in communication-focused instruction sessions during scheduled lab and recitation times.
 
 ### Evaluation
 

@@ -6,7 +6,7 @@ draft: false
 title: Communications (CI-M) Assignments
 uid: 53cf7636-95de-41f7-a878-a508b10b34d5
 ---
-Please refer to the [calendar section](https://draft.ocw.mit.edu/courses/3-020-thermodynamics-of-materials-spring-2021/pages/schedule/) to see where the assignment due dates fall in the class schedule. These assignments are part of the [CI-M](https://registrar.mit.edu/registration-academics/academic-requirements/communication-requirement/ci-m-subjects) aspect of the course.
+Please refer to the {{% resource_link "929e7739-2cf4-4623-8173-704ce7baf916" "calendar section" %}} to see where the assignment due dates fall in the class schedule. These assignments are part of the {{% resource_link "e3631442-c257-42ec-b32b-352578fd51b1" "CI-M" %}} aspect of the course.
 
 ## **Literature Review Assignment Guidelines**
 
@@ -32,7 +32,7 @@ To be successful, authors of literature reviews need to keep careful track of th
 
 For this assignment, you will need to focus your research, select 7–12 peer-reviewed articles to include in an annotated bibliography, and ultimately engage in close synthesis of 5–10 of these articles in your final draft.
 
-We recommend using tools like a [literature review chart](https://docs.google.com/spreadsheets/d/1nADiXemCq8gZjG9ouV7G0h10HOlsgObUaLUbYnKKfvg/edit#gid=0), Mendelay or Zotero, as well as your [course librarian](https://libguides.mit.edu/materials) as you navigate the research.
+We recommend using tools like a {{% resource_link "e7ad1b95-0418-475a-8da3-76bc2f529619" "literature review chart" %}}, Mendelay or Zotero, as well as your {{% resource_link "ffc37631-edb6-442c-b48c-30b5717fca3f" "course librarian" %}} as you navigate the research.
 
 ### **Drafting the Assignment**
 
@@ -52,7 +52,7 @@ This briefly reframes your review’s main points, focusing on key intersections
 
 #### **4\. Figures + References**
 
-Include at least 1–2 figures and/or tables (titled, labeled, captioned, and referenced in the text) to illustrate complex concepts. Cite all source material with an in-text reference and in a full reference page (use [Nature’s](https://paperpile.com/s/nature-citation-style/) style guide).
+Include at least 1–2 figures and/or tables (titled, labeled, captioned, and referenced in the text) to illustrate complex concepts. Cite all source material with an in-text reference and in a full reference page (use {{% resource_link "e40cd567-020c-41e0-bb7c-8a08b12c5dac" "Nature’s" %}} style guide).
 
 ## **Presentation Assignment Guidelines**
 

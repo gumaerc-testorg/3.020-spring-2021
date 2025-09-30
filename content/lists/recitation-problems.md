@@ -1,8 +1,8 @@
 ---
 content_type: resource-list
-description: Please refer to the [calendar section](https://draft.ocw.mit.edu/courses/3-020-thermodynamics-of-materials-spring-2021/pages/schedule/)
-  to see where the problems fall in the class schedule. Solutions are not available
-  on OCW.
+description: Please refer to the {{% resource_link "929e7739-2cf4-4623-8173-704ce7baf916"
+  "calendar section" %}} to see where the problems fall in the class schedule. Solutions
+  are not available on OCW.
 draft: false
 resources:
   content:
