@@ -46,22 +46,22 @@ Devoting two lectures to these topics was intended as a signal of how important 
 
 Students in 3.020 should have previously taken one of the following courses to fulfill MIT's General Institute Requirement (GIR) in Chemistry:
 
-- {{% resource_link "a156f7f9-88d8-44cf-b830-9f97009c44f6" "*3.091 Introduction to Solid-State Chemistry*" %}}  or {{% resource_link "6522a437-dc50-4777-b723-187d2641aad6" "3.091SC" %}}\*
-- {{% resource_link "f90d0e98-8c09-4e69-a4e8-3230414d089b" "*5.111 Principles of Chemical Science*" %}} or {{% resource_link "f3679000-9e19-491b-aedc-e616e3058819" "5.111SC" %}}\*
-- {{% resource_link "e16515b0-347f-48ca-a0f6-a70c78f859f5" "*5.112 Principles of Chemical Science*" %}}
+- [*3.091 Introduction to Solid-State Chemistry*](https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/)  or [3.091SC](https://draft.ocw.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/)\*
+- [*5.111 Principles of Chemical Science*](https://ocw.mit.edu/courses/5-111-principles-of-chemical-science-fall-2008/) or [5.111SC](https://draft.ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/)\*
+- [*5.112 Principles of Chemical Science*](https://ocw.mit.edu/courses/5-112-principles-of-chemical-science-fall-2005/)
 
 One of the following courses should be taken as a corequisite:
 
-- {{% resource_link "d030fa2b-478d-4bfa-9ce0-e1f3aa7cb849" "*18.03 Differential Equations*" %}}
+- [*18.03 Differential Equations*](https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/)
 - *18.032 Differential Equations*
 
-\*"SC" denotes an {{% resource_link "465617c9-77dd-4cbe-8b24-c3fd57167362" "*OCW Scholar*" %}} version of a course.
+\*"SC" denotes an [*OCW Scholar*](https://ocw.mit.edu/course-lists/scholar-courses/) version of a course.
 
 ### Requirements Satisfied
 
-- {{% resource_link "6a70005c-94e9-48af-9eb6-27a116f16583" "GIR CI-M" %}}
-- {{% resource_link "2cba0eb9-cbcf-4ff7-bac9-ec56d7faeef7" "GIR REST" %}}
-- {{% resource_link "8108b5f6-c2da-46d2-a599-d6dafad57a11" "Materials Science and Engineering degree requirement" %}}
+- [GIR CI-M](https://registrar.mit.edu/registration-academics/academic-requirements/communication-requirement)
+- [GIR REST](http://catalog.mit.edu/mit/undergraduate-education/general-institute-requirements/#restrequirementtext)
+- [Materials Science and Engineering degree requirement](http://catalog.mit.edu/degree-charts/materials-science-engineering-course-3/)
 
 ### Offered
 
